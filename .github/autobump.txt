@@ -1401,6 +1401,7 @@ makensis
 makepkg
 man-db
 manifest-tool
+manticoresearch
 mantra
 mapcidr
 mariadb@10.11
