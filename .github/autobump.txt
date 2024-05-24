@@ -2374,6 +2374,7 @@ wartremover
 wasm-micro-runtime
 wasm-pack
 wasm-tools
+wasmedge
 wasmer
 wasmtime
 watchexec
